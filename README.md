@@ -18,5 +18,7 @@ En este portafolio encontrarás los proyectos que más orgullo me han dado reali
 ## Mis proyectos
 #### Creador de App para listas de compra de supermercado.
 [SupermarketGT](https://play.google.com/store/apps/details?id=gt.com.supergtapp&hl=es)
+[Transport React](https://github.com/bcanonse/transport-react)
+[Nba Clone App Jetpack] (https://github.com/bcanonse/nba-app)
 
 
